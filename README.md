@@ -2,7 +2,7 @@
 link of our project is
 https://github.com/Basant-goswami/NM-DSCET-13
 
-# screenshots
+# Screenshots
 <img width="513" alt="register" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123950447/4d270eb6-679a-4e9a-ae03-2ac9817778f1">
 <img width="518" alt="placeOrder" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123950447/ae7348f9-4cdc-4bb7-948a-09767a972249">
 <img width="514" alt="login" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123950447/e1ff3614-f468-4c80-afb3-443a7fe8464c">
