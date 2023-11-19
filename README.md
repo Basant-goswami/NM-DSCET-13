@@ -1,4 +1,4 @@
-<img width="511" alt="customerAddComment" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123950447/59d4bf5a-ca70-47dc-a1de-52bf51417014"># NM-DSCET-13
+# NM-DSCET-13
 link of our project is
 https://github.com/Basant-goswami/NM-DSCET-13
 
