@@ -106,7 +106,7 @@ Response times for critical functions should be below predefined thresholds.
 
 4.2 Security
 Implement encryption for user data and transactions.
-Protect against common web application security threats (e.g., SQL injection, cross-site scripting).
+Protect against common web application security threats
 
 
 4.3 Usability
@@ -120,9 +120,10 @@ The system should be designed to scale horizontally to accommodate increased use
 The system should be highly available and minimize downtime.
 
 **5. Technical Requirements**
+
 5.1 Backend
 Develop the backend using Java.
-Use a relational database (e.g., MySQL) for data storage.
+Use a database for data storage.
 Implement RESTful APIs for communication between the frontend and backend.
 
 
@@ -148,17 +149,3 @@ Provide ongoing maintenance and support to address issues and updates.
 **9. Appendix**
 
 Include any additional information or diagrams, such as database schemas, wireframes, or flowcharts, as needed.
-
-**10. Entities:**
-
-User
-Attributes: UserID (Primary Key), Username, Email, Password, Role (Customer or Restaurant Owner)
-
-Restaurant
-Attributes: RestaurantID (Primary Key), Name, Location, Cuisine, Ratings
-
-Menu Item
-Attributes: ItemID (Primary Key), Name, Description, Price, RestaurantID (Foreign Key)
-
-
-
