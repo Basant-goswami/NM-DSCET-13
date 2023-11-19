@@ -47,6 +47,7 @@ Backend: Java-based server handling business logic and data management.
 Frontend: HTML, CSS, JavaScript, and React.js-based user interface.
 
 **3. Functional Requirements**
+
 3.1 User Registration and Authentication
 Users can register and log in using email or social media accounts.
 User roles include customers and restaurant owners.
@@ -98,6 +99,7 @@ Users can leave reviews and ratings for restaurants.
 Reviews should include text comments and star ratings.
 
 **4. Non-Functional Requirements**
+
 4.1 Performance
 The website should load quickly and handle a large number of concurrent users.
 Response times for critical functions should be below predefined thresholds.
@@ -130,20 +132,25 @@ Ensure cross-browser compatibility.
 Implement responsive design for mobile devices.
 
 **6. Testing**
+
 Perform unit testing, integration testing, and user acceptance testing.
 Ensure the website is compatible with various browsers and devices.
 
 **7. Deployment**
+
 Deploy the application on a reliable web hosting platform.
 Set up continuous integration and continuous deployment (CI/CD) pipelines.
 
 **8. Maintenance and Support**
+
 Provide ongoing maintenance and support to address issues and updates.
 
 **9. Appendix**
+
 Include any additional information or diagrams, such as database schemas, wireframes, or flowcharts, as needed.
 
 **10. Entities:**
+
 User
 Attributes: UserID (Primary Key), Username, Email, Password, Role (Customer or Restaurant Owner)
 
