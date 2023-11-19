@@ -1,5 +1,4 @@
 # NM-DSCET-13
-# NM-DSCET-02
 link of our project is
 https://github.com/Basant-goswami/NM-DSCET-13
 
@@ -14,9 +13,7 @@ screenshots
 <img width="512" alt="driverFinishOrder" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123767430/237175ad-e4b7-471f-b61c-80cb3daa355e">
 <img width="511" alt="customerAddComment" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123767430/efaa2a94-43af-4d2f-8720-e531583d3f51">
 
-
-upload srs file
-
+# SRS OF FOOD DELIVERY WEBSITE
 
 1. Introduction
 1.1 Purpose
