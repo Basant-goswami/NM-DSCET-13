@@ -1,8 +1,8 @@
-# NM-DSCET-13
+<img width="511" alt="customerAddComment" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123950447/59d4bf5a-ca70-47dc-a1de-52bf51417014"># NM-DSCET-13
 link of our project is
 https://github.com/Basant-goswami/NM-DSCET-13
 
-screenshots
+# screenshots
 <img width="513" alt="register" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123950447/4d270eb6-679a-4e9a-ae03-2ac9817778f1">
 <img width="518" alt="placeOrder" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123950447/ae7348f9-4cdc-4bb7-948a-09767a972249">
 <img width="514" alt="login" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123950447/e1ff3614-f468-4c80-afb3-443a7fe8464c">
@@ -17,7 +17,7 @@ screenshots
 
 # SRS OF FOOD DELIVERY WEBSITE
 
-1. Introduction
+1. **Introduction**
 1.1 Purpose
 The purpose of this document is to outline the software requirements for the development of a food delivery website. The website will serve as a platform for users to browse restaurants, view menus, place orders, and track deliveries.
 
@@ -30,7 +30,7 @@ UI: User Interface
 API: Application Programming Interface
 SQL: Structured Query Language
 
-System Overview
+**System Overview**
 2.1 System Description
 The food delivery website will allow users to perform the following actions:
 Register and log in as customers or restaurant owners.
@@ -46,7 +46,7 @@ The system will consist of two main components:
 Backend: Java-based server handling business logic and data management.
 Frontend: HTML, CSS, JavaScript, and React.js-based user interface.
 
-3. Functional Requirements
+**3. Functional Requirements**
 3.1 User Registration and Authentication
 Users can register and log in using email or social media accounts.
 User roles include customers and restaurant owners.
@@ -97,7 +97,7 @@ Securely process payments using a third-party payment gateway.
 Users can leave reviews and ratings for restaurants.
 Reviews should include text comments and star ratings.
 
-4. Non-Functional Requirements
+**4. Non-Functional Requirements**
 4.1 Performance
 The website should load quickly and handle a large number of concurrent users.
 Response times for critical functions should be below predefined thresholds.
@@ -117,7 +117,7 @@ The system should be designed to scale horizontally to accommodate increased use
 4.5 Reliability
 The system should be highly available and minimize downtime.
 
-5. Technical Requirements
+**5. Technical Requirements**
 5.1 Backend
 Develop the backend using Java.
 Use a relational database (e.g., MySQL) for data storage.
@@ -129,21 +129,21 @@ Develop the frontend using HTML, CSS, JavaScript, and React.js.
 Ensure cross-browser compatibility.
 Implement responsive design for mobile devices.
 
-6. Testing
+**6. Testing**
 Perform unit testing, integration testing, and user acceptance testing.
 Ensure the website is compatible with various browsers and devices.
 
-7. Deployment
+**7. Deployment**
 Deploy the application on a reliable web hosting platform.
 Set up continuous integration and continuous deployment (CI/CD) pipelines.
 
-8. Maintenance and Support
+**8. Maintenance and Support**
 Provide ongoing maintenance and support to address issues and updates.
 
-9. Appendix
+**9. Appendix**
 Include any additional information or diagrams, such as database schemas, wireframes, or flowcharts, as needed.
 
-10. Entities:
+**10. Entities:**
 User
 Attributes: UserID (Primary Key), Username, Email, Password, Role (Customer or Restaurant Owner)
 
