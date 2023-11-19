@@ -1,6 +1,9 @@
 # NM-DSCET-13
-link of our project is
+**link of our project is**
 https://github.com/Basant-goswami/NM-DSCET-13
+
+**Deployment link **
+https://food-delivery-dscet.netlify.app/
 
 # Screenshots
 <img width="513" alt="register" src="https://github.com/Basant-goswami/NM-DSCET-13/assets/123950447/4d270eb6-679a-4e9a-ae03-2ac9817778f1">
